@@ -6,7 +6,7 @@
  * Please see LICENSE file in source package.
  *
  */
-a
+
 define([
     'text!../html/repository-list.html',
     'toastr',
