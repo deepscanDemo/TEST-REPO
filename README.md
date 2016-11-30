@@ -1,7 +1,4 @@
 ### Well hello there!8888 + 1113aa2223423
-[![DeepScan Grade](http://a5811e54.ngrok.io/api/projects/300/branches/228/badge/grade.svg)](http://dev.deepscan.io:5001/lite/#view=project&pid=300&bid=228)
-
-<a href="http://dev.deepscan.io:5001/lite/#view=project&pid=300&bid=228"><img src="http://a5811e54.ngrok.io/api/projects/300/branches/228/badge/grade.svg" alt="DeepScan Grade"></a>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/485fc5685be5432da604bad37772854d)](https://www.codacy.com/app/esil7153/TEST-REPO?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=casval/TEST-REPO&amp;utm_campaign=Badge_Grade)
 
